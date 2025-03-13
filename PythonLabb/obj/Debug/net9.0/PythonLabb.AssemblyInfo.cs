@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PythonLabb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+637ea51a72ef073f3028ec5e81301d9c5ae0f878")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89cf345813a3e1754c87badfb8e418284011caba")]
 [assembly: System.Reflection.AssemblyProductAttribute("PythonLabb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PythonLabb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
